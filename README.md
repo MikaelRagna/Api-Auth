@@ -97,4 +97,4 @@ MIT
 
 ---
 
-Se quiser adicionar mais exemplos de requests/responses ou detalhes sobre testes e deploy, é só pedir!
+
