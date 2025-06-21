@@ -1,7 +1,3 @@
-Com base na análise do seu repositório Api-Auth, segue um README detalhado em português, já incluindo informações sobre o uso do MongoDB e a estrutura do projeto:
-
----
-
 # Api-Auth
 
 API de autenticação desenvolvida em C# (.NET 8) com integração ao MongoDB. Tem como objetivo fornecer endpoints seguros para cadastro, autenticação e gerenciamento de usuários, utilizando JWT para autenticação e Docker para facilitar o deploy.
