@@ -1,0 +1,6 @@
+services:
+  api-auth:
+    image: ${DOCKER_REGISTRY-}apiauth
+    build:
+      context: .
+      dockerfile: Dockerfile

@@ -1,0 +1,13 @@
+services:
+  api-auth:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - APPLICATION_NAME=API_Auth
+      - DATABASE_HOST=localhost
+      - DATABASE_PORT=27017
+      - DATABASE_USER=root_mongodb
+      - DATABASE_PASSWORD=Mongo1*db
+      - SECRET_KEY=46070d4bf934fb0d4b06d9e2c46e346944e322444900a435d7d9a95e6d7435f5
+    ports:
+      - "8080"
